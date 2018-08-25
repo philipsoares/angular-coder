@@ -1,10 +1,6 @@
-# Meat - Angular App Starter
+# Contrução do projeto do curso de Angular
 
 ## 1. Passos para começar
-
-### Clonando o Repositório
-
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
 
 ### Instalando as Dependências
 
@@ -24,17 +20,11 @@
 
 `json-server db.json`
 
-## Goodies
-
-Expressões regulares usadas na validação de formulários
 
 ### Email Regex
 
 `/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
 
-### Number Regex
-
-`/^[0-9]*$/`
 
 ## Upgrade para Angular 4.3
 
@@ -141,6 +131,3 @@ Dependências dos pacotes que devem ficar em package.json:
   "webdriver-manager": "12.0.6"
 }
 ```
-## Créditos
-
-Todas as imagens usadas na aplicação são pertencentes a freepik.com
