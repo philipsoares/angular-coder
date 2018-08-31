@@ -20,12 +20,6 @@
 
 `json-server db.json`
 
-
-### Email Regex
-
-`/^(([^<>()\[\]\.,;:\s@\"]+(\.[^<>()\[\]\.,;:\s@\"]+)*)|(\".+\"))@(([^<>()[\]\.,;:\s@\"]+\.)+[^<>()[\]\.,;:\s@\"]{2,})$/i`
-
-
 ## Upgrade para Angular 4.3
 
 Dependências dos pacotes que devem ficar em package.json:

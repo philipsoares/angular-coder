@@ -369,5 +369,27 @@
       "comments": "Taxa de entrega bastante elevada e precisa colocar no app se a pessoa quer porção adicional de algo (calda, crocante etc)",
       "restaurantId": "tasty-treats"
     }
+  ],
+  "orders": [
+    {
+      "name": "Philip",
+      "email": "philip@teste.com",
+      "emailConfirmation": "philip@teste.com",
+      "address": "Rua dos três irmãos",
+      "number": "123",
+      "optionalAddress": "",
+      "paymentOption": "MON",
+      "orderItems": [
+        {
+          "quantity": 1,
+          "menuId": "cup-cake"
+        },
+        {
+          "quantity": 1,
+          "menuId": "donut"
+        }
+      ],
+      "id": 2
+    }
   ]
 }
